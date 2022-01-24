@@ -7,4 +7,4 @@ This porject is intented to build the most accurate model for predicting the por
 
 The EDA part of the project is preformed on a separate notebook in detail.
 
-To get the highest accuracy possible, I tended to use Boosting Algorithms which preforms better than other traditional ML algorithms. 
+To get the highest accuracy possible, I tended to use Boosting Algorithms which preforms better than other traditional ML algorithms.
